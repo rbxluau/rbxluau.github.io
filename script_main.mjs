@@ -1185,7 +1185,7 @@ var Z = {
                 lE_nLsZ01: "insights",
                 QDiy2QIy_: "comparison"
             },
-            page: ee(() => import("https://framerusercontent.com/sites/4GTZrNh75UmGyw5GRYMBH9/v4fxOEtboyswNCzO88T7a19MG_boEIO3qFPl9OBY-nA.CSVPESHS.mjs")),
+            page: ee(() => import("./v4fxOEtboyswNCzO88T7a19MG_boEIO3qFPl9OBY-nA.CSVPESHS.mjs")),
             path: "/"
         },
         b4jXLLrNK: {
